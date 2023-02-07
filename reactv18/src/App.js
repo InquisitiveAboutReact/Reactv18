@@ -7,6 +7,7 @@ function App() {
       <p> Let's start with Auto Batching !!</p>
       <hr></hr>
       <h2>Testing CI/CD using GIT</h2>
+      <hr></hr>
     </div>
   );
 }
