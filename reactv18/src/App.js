@@ -8,6 +8,7 @@ function App() {
       <hr></hr>
       <h2>Testing CI/CD using GIT</h2>
       <hr></hr>
+      <p>Working on GIT</p>
     </div>
   );
 }
