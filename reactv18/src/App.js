@@ -1,14 +1,14 @@
 import './App.css';
+import UseReducer from './Hooks/UseReducer';
+import UseState from './Hooks/UseState';
 
 function App() {
   return (
     <div className="App">
-      <h2>Welcome to React V18 Concept !!</h2>
-      <p> Let's start with Auto Batching !!</p>
-      <hr></hr>
-      <h2>Testing CI/CD using GIT</h2>
-      <hr></hr>
-      <p>Working on GIT</p>
+      <h2>Welcome to React V18 and Hooks Concept !!</h2>
+      <UseState/>
+      <hr/>
+      <UseReducer />
     </div>
   );
 }
