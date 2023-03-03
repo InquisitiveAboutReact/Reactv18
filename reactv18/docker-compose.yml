@@ -1,0 +1,7 @@
+version: "3"
+services:
+  web:
+    container_name: reactcontainerprod1
+    build: .
+    ports:
+       - 3001:80
