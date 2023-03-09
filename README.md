@@ -1,3 +1,3 @@
 # Reactv18
 
-Added Docker, Jenkins
+Added Docker, Jenkins, ci/cd
